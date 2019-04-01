@@ -8,7 +8,7 @@ limitations apply to the usage of these PDF files.
 
 # License Disclaimer
 
-* The copyright of the documents are owned by the original owner (includes but not limited to 
+* The copyright of the documents are owned by the original owners (include but not limited to 
   publisher, author, distributor, licensee as applicable)
 * We have accessed the document from a openly accessible website at some point and our usage
   of the files are for the purpose of testing the PDF library we have been developing. The 
